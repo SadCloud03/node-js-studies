@@ -16,3 +16,4 @@ nombreConst = "Jesus"; //esto nos arrojara un error en consola
 console.log(nombreConst) //no llegara aqui por el error 
 
 // queda a nuestro criterio usar los dos cuando se deba.
+
