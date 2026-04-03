@@ -37,7 +37,7 @@ Si se sabe el nombre de la variable a la cual queremos acceder la verdad que da 
 Si no se sabe el nombre o se va a iterar todas las propiedades de un objeto es mejor usar [], porque:
 */
 let llave = "edad";
-personaje[llave] = 17;
+personaje[llave] = 17; //esto funciona igual que antes... 
 
 //Para eliminar una propiedad de un objeto es:
 delete personaje.anime;
