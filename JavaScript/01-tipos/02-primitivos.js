@@ -10,7 +10,7 @@ let verdadero = true;
 let falso = false;
 
 //Undefined
-let noDefinido;
+let noDefinido; 
 let undef = undefined;
 
 //NUll
