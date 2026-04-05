@@ -29,7 +29,7 @@ console.log(username);
 //hacemos algunas funciones
 function funcion1() {
     console.log("esta es la funcion 1");
-    return true;
+    return false;
 }
 
 function funcion2() {
