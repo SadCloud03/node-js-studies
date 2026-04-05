@@ -11,7 +11,7 @@ console.log(1 | 4); //Este en cambio al tener 1 -> 00000001 y 4 -> 00000100, la 
 
 //ahora por ejemplo con los resultados de las dos operaciones
 console.log("Este es console.log(3 | 5);")
-console.log(3 |5); //Como tuvimos los resultados -> 00000011 y 00000101, esto dara como resultado 00000111 -> que es 7
+console.log(3 | 5); //Como tuvimos los resultados -> 00000011 y 00000101, esto dara como resultado 00000111 -> que es 7
 //esto devuelve 7
 
 
